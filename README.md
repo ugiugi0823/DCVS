@@ -10,7 +10,11 @@ DCVS 의 의미는!
 
 
 ## DCV LAB 소개
-저희는 [모두의연구소]에 소속해 있는 Deep Computer Vision LAB입니다.
+저희는 [모두의연구소](https://modulabs.co.kr/)에 소속해 있는 Deep Computer Vision LAB입니다.
+
+
+
+
 
 
 
