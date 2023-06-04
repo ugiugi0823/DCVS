@@ -24,7 +24,9 @@
 <img width="704" alt="image" src="https://github.com/ugiugi0823/DCVS/assets/106899647/a8258173-7477-4c4d-b34a-50ea323ec2df">
 
 
-### 핵심 기술
+### 핵심 기술 : ViT
+
+<img width="502" alt="image" src="https://github.com/ugiugi0823/DCVS/assets/106899647/4e0ce446-7813-4aa4-982a-88a857f00ff7">
 
 
 
