@@ -67,7 +67,9 @@
 
 
 
-###  핵심 기술 : BLIP
+###  핵심 기술 : BLIP-2
+
+<img width="610" alt="image" src="https://github.com/ugiugi0823/DCVS/assets/106899647/3cbf9de3-c935-4be7-b29b-d7b342887af7">
 
 
 
