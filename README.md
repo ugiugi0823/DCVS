@@ -70,6 +70,20 @@
 
 
 
+<br/><br>
+##  참고 문헌
+- “AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE”
+
+- “ Self-Distillation for Few-Shot Image Captioning , Xianyu Chen, Ming Jiang, Qi Zhao University of Minnesota, Twin Cities”
+
+- “BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models, Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi”
+
+- “Face-to-Parameter Translation for Game Character Auto-Creation, Tianyang Shi, Yi Yuan, Changjie Fan, Zhengxia Zou, Zhenwei Shi, Yong Liu”
+
+- “ Learning Transferable Visual Models From Natural Language Supervision, Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever”
+
+
+
 
 
 
