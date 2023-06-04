@@ -22,9 +22,10 @@
 ## Project : 1-Shot-Customization
 사용자가 임의의 사진을 넣었을 때 , 커스터마이징 파일을 만들어 준다.
 
+<img width="909" alt="image" src="https://github.com/ugiugi0823/DCVS/assets/106899647/331c78bc-cd99-45ba-ae1e-6fee53258b24">
 
 
-<img width="704" alt="image" src="https://github.com/ugiugi0823/DCVS/assets/106899647/a8258173-7477-4c4d-b34a-50ea323ec2df">
+
 
 
 ### 핵심 기술 : ViT
